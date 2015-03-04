@@ -17,7 +17,7 @@ Working of the blocks:<br>
 What these block Demonstrates?<br>
    These blocks demonstrate the following issues with gnuradio:<br>
      1. Reason why values from slider do not reflect quickly in gnuradio.<br>
-     2. One may not be able to efficiently access external resources through gnuradio unless the problem is solved.<br>
+     2. One may not be able to efficiently access external resources through gnuradio unless the problem is solved.<br><br><br>
 
 Problem Statement:
    The block test1 executes prematurely without waiting for the next block to complete its operation.
